@@ -56,10 +56,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 Steven Bryan - Software Engineer
-- Portfolio: [Live Demo](https://your-portfolio-url.com)
+- Portfolio: [Live Demo]
 - GitHub: [@rsbryan](https://github.com/rsbryan)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: sbryancs@gmail.com
 
 ---
-
-Built with ❤️ by Steven Bryan
